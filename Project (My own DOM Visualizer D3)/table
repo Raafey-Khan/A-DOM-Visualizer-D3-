@@ -27,21 +27,24 @@
         </thead>
         <tbody>
             <tr>
-                <td rowspan="2">Hilary</td>
-                <td rowspan="1">Advanced</td>
+                <td rowspan="4">Hilary</td>
+                <td>Advanced</td>
                 <td>75</td>
             </tr>
             <tr>
                 <td>Web</td>
-                
+                <td></td>
             </tr>
             <tr>
-                <td>Operating System</td>
+                <td>Operating</td>
                 <td>60</td>
             </tr>
-            
             <tr>
-                <td rowspan="2">Lary</td>
+                <td>System</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td rowspan="4">Lary</td>
                 <td>Advanced</td>
                 <td>80</td>
             </tr>
@@ -50,7 +53,7 @@
                 <td></td>
             </tr>
             <tr>
-                <td>Operating </td>
+                <td>Operating</td>
                 <td>75</td>
             </tr>
             <tr>
