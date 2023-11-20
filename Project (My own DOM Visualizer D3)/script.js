@@ -5,6 +5,7 @@ const initialDomData = {
     children: []
 };
 
+
 const width = 1200;
 const height = 1200;
 const svg = d3.select("#tree-container").append("svg")
